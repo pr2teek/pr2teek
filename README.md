@@ -19,8 +19,10 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2teek&show_icons=true&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=22c55e&border_color=30363d" alt="Prateek's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr2teek&layout=compact&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=30363d" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pr2teek&show_icons=true&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=22c55e&border_color=30363d" alt="Prateek's Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=pr2teek&layout=compact&theme=dark&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&border_color=30363d" alt="Top Languages" width="48%" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pr2teek&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=22c55e&fire=22c55e&currStreakNum=22c55e" alt="GitHub Streak" width="97%" />
+</p>
