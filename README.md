@@ -24,5 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pr2teek&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=22c55e&fire=22c55e&currStreakNum=22c55e" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=pr2teek&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=22c55e&fire=22c55e&currStreakNum=22c55e" alt="GitHub Streak" width="65%" />
 </p>
+
+</div>
