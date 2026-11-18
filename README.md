@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Prateek Yadav
-### Passionate Frontend Developer from India
+### A Passionate Programmer
 
 [![CheckMyGit Portfolio](https://img.shields.io/badge/View_Portfolio-CheckMyGit-black?style=for-the-badge&logo=github)](https://checkmygit.com/pr2teek)
 
